@@ -1,4 +1,4 @@
-function theBeatlesPlay(musicians, instruments ) {
+learfunction theBeatlesPlay(musicians, instruments ) {
   var array = [];
  musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
  instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
